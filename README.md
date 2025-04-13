@@ -26,7 +26,7 @@ To analyze GeeksforGeeks content data and explore:
 - Patterns in publishing (e.g., most active days)
 
 ## 📂 Dataset
-*The dataset used is assumed to be sourced from or based on GeeksforGeeks article metadata. It may include fields like:*
+*The dataset used is sourced from or based on GeeksforGeeks article metadata. It include fields like:*
 - Title
 - Author
 - Tags
@@ -38,3 +38,7 @@ To analyze GeeksforGeeks content data and explore:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+
+## 📬 Get in Touch
+
+If you have feedback or questions, feel free to reach out or connect on [LinkedIn](rohttps://linkedin.com/in/anushkagupta23).
